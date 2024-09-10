@@ -1,8 +1,6 @@
 <script lang="ts">
 </script>
 
-<!-- roles include: veterinarian, veterinary technician/nurse, vet assistant, receptionist, kennel attendant, specialist (vet surgeon,oncologist), lab technician, pharmacist
-senior vet/clinic owner/office manager (all admins. this page is managed by the clinic owner, office manager, senior vet ONLY, they oversee all the staff records -->
 
 <!-- Table Section -->
 <div class="max-w-[85rem] px-4 py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto">
